@@ -6,7 +6,7 @@
       "phone": "774368884",
       "avatar": "https://randomuser.me/api/portraits/men/1.jpg",
       "status": "Available",
-      "lastSeen": "2025-06-10T09:03:40.702Z",
+      "lastSeen": "2025-06-10T23:45:49.686Z",
       "isOnline": true,
       "contacts": [
         "2",
@@ -57,7 +57,7 @@
       "phone": "772345678",
       "avatar": "https://randomuser.me/api/portraits/men/3.jpg",
       "status": "At work",
-      "lastSeen": "2025-06-06T05:08:58.911Z",
+      "lastSeen": "2025-06-11T17:45:27.102Z",
       "isOnline": true,
       "contacts": [
         "1",
@@ -167,15 +167,304 @@
       "isGroup": false,
       "messages": [
         {
-          "id": 1,
-          "senderId": 1,
-          "text": "khvkh",
+          "id": "1",
+          "senderId": "3",
+          "content": "Wa boy",
+          "type": "text",
+          "timestamp": "2025-05-09T08:33:49.213Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "2",
+          "senderId": "1",
+          "content": "Wa fils",
           "type": "text",
           "timestamp": "2025-06-09T08:33:49.213Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "3",
+          "senderId": "3",
+          "content": "Nakala gayn?",
+          "type": "text",
+          "timestamp": "2025-06-11T23:52:39.260Z",
+          "isReceive": false,
+          "isRead": false
+        },
+        {
+          "id": "4",
+          "senderId": "3",
+          "content": "Mba lepp nice",
+          "type": "text",
+          "timestamp": "2025-06-11T23:56:57.380Z",
+          "isReceive": false,
+          "isRead": false
+        },
+        {
+          "id": "5",
+          "senderId": "3",
+          "content": "Go",
+          "type": "text",
+          "timestamp": "2025-06-12T00:03:09.124Z",
+          "isReceive": false,
+          "isRead": false
+        },
+        {
+          "id": "6",
+          "senderId": "3",
+          "content": "Go",
+          "type": "text",
+          "timestamp": "2025-06-12T00:09:20.565Z",
+          "isReceived": false,
+          "isRead": false
+        },
+        {
+          "id": "7",
+          "senderId": "3",
+          "content": "Go",
+          "type": "text",
+          "timestamp": "2025-06-12T00:11:31.733Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "8",
+          "senderId": "3",
+          "content": "Go",
+          "type": "text",
+          "timestamp": "2025-06-12T00:16:51.284Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "9",
+          "senderId": "3",
+          "content": "Boy",
+          "type": "text",
+          "timestamp": "2025-06-12T00:21:16.290Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "10",
+          "senderId": "1",
+          "content": "lk,kl",
+          "type": "text",
+          "timestamp": "2025-06-12T10:29:40.825Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "11",
+          "senderId": "3",
+          "content": "Hello",
+          "type": "text",
+          "timestamp": "2025-06-12T12:18:05.969Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "12",
+          "senderId": "3",
+          "content": "Weuy",
+          "type": "text",
+          "timestamp": "2025-06-12T12:19:26.569Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "13",
+          "senderId": "1",
+          "content": "Nakamou",
+          "type": "text",
+          "timestamp": "2025-06-12T12:34:11.481Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "14",
+          "senderId": "3",
+          "content": "Lepp jaam gayn",
+          "type": "text",
+          "timestamp": "2025-06-12T12:35:49.155Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "15",
+          "senderId": "1",
+          "content": "Tawfeeeeeeeeeeeex",
+          "type": "text",
+          "timestamp": "2025-06-12T12:36:16.095Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "16",
+          "senderId": "3",
+          "content": "Envoyel",
+          "type": "text",
+          "timestamp": "2025-06-12T12:38:07.650Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "17",
+          "senderId": "1",
+          "content": "Boy",
+          "type": "text",
+          "timestamp": "2025-06-12T12:39:29.991Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "18",
+          "senderId": "3",
+          "content": "kjn",
+          "type": "text",
+          "timestamp": "2025-06-12T12:42:45.361Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "19",
+          "senderId": "3",
+          "content": "fils",
+          "type": "text",
+          "timestamp": "2025-06-12T12:46:32.035Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "20",
+          "senderId": "1",
+          "content": "boy",
+          "type": "text",
+          "timestamp": "2025-06-12T12:46:45.359Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "21",
+          "senderId": "3",
+          "content": "fils",
+          "type": "text",
+          "timestamp": "2025-06-12T12:51:10.739Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "22",
+          "senderId": "3",
+          "content": ":nk;jb,v",
+          "type": "text",
+          "timestamp": "2025-06-12T12:52:26.358Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "23",
+          "senderId": "1",
+          "content": "Ngir Yalla",
+          "type": "text",
+          "timestamp": "2025-06-12T12:57:58.341Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "24",
+          "senderId": "1",
+          "content": "Ma la ko niane",
+          "type": "text",
+          "timestamp": "2025-06-12T12:58:51.299Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "25",
+          "senderId": "3",
+          "content": "Nieuweul way",
+          "type": "text",
+          "timestamp": "2025-06-12T12:59:05.133Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "26",
+          "senderId": "3",
+          "content": "dh",
+          "type": "text",
+          "timestamp": "2025-06-12T13:11:51.610Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "27",
+          "senderId": "3",
+          "content": "yeah",
+          "type": "text",
+          "timestamp": "2025-06-12T13:13:06.888Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "28",
+          "senderId": "3",
+          "content": "Yup",
+          "type": "text",
+          "timestamp": "2025-06-12T13:33:27.100Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "29",
+          "senderId": "1",
+          "content": "way",
+          "type": "text",
+          "timestamp": "2025-06-12T13:33:42.810Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "30",
+          "senderId": "1",
+          "content": "Ouaissss",
+          "type": "text",
+          "timestamp": "2025-06-12T14:09:29.603Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "31",
+          "senderId": "3",
+          "content": "leegi",
+          "type": "text",
+          "timestamp": "2025-06-12T14:22:41.119Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "32",
+          "senderId": "1",
+          "content": "Cooooooool",
+          "type": "text",
+          "timestamp": "2025-06-12T14:23:05.644Z",
+          "isReceived": true,
+          "isRead": false
+        },
+        {
+          "id": "33",
+          "senderId": "3",
+          "content": "Nice",
+          "type": "text",
+          "timestamp": "2025-06-12T14:23:27.538Z",
+          "isReceived": true,
           "isRead": false
         }
       ],
-      "lastUpdated": "2025-06-09T08:33:49.213Z",
+      "lastUpdated": "2025-06-13T09:04:15.978Z",
       "id": "2"
     },
     {
@@ -184,17 +473,27 @@
         "4"
       ],
       "isGroup": true,
+      "groupName": "Groupe de Développeurs",
+      "groupAvatar": "https://randomuser.me/api/portraits/men/1.jpg",
       "messages": [
         {
-          "id": 1,
-          "senderId": 1,
-          "text": "khvkh",
+          "id": "1",
+          "senderId": "1",
+          "content": "breukh",
           "type": "text",
           "timestamp": "2025-06-09T21:04:03.312Z",
           "isRead": false
+        },
+        {
+          "id": "2",
+          "senderId": "1",
+          "content": "Yup",
+          "type": "text",
+          "timestamp": "2025-06-12T12:18:31.701Z",
+          "isRead": false
         }
       ],
-      "lastUpdated": "2025-06-09T21:04:03.312Z",
+      "lastUpdated": "2025-06-12T12:18:31.701Z",
       "id": "3"
     }
   ],
